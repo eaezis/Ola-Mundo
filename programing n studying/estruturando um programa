@@ -1,0 +1,5 @@
+console.log("Digite o nome do seu jogador"
+
+let nickname = "zis"
+
+console.log("Bem vindo zis" + nickname)
