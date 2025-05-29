@@ -23,7 +23,7 @@ Sonho grande: criar apps que impactem e, claro, poder trabalhar de qualquer luga
 
 ### 🖥️ Front-End
 
-- [ ] HTML
+- [X] HTML
 - [ ] CSS
 - [ ] JavaScript
 - [ ] TypeScript
